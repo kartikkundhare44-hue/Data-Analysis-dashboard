@@ -47,5 +47,7 @@ The main objective of this project is to analyze student performance using diffe
 - `README.md` – Project documentation
 
 ## 🚀 Project Outcome
+https://github.com/kartikkundhare44-hue/Data-Analysis-dashboard/blob/main/Screenshot%202026-08-08%20202530.png
+
 
 This dashboard converts raw student performance data into interactive visual insights that can help identify performance trends and areas where students may need additional support.
