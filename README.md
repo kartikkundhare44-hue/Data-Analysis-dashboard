@@ -8,7 +8,7 @@ An interactive dashboard created to analyze and visualize student academic perfo
 
 The main objective of this project is to analyze student performance using different academic and demographic factors and present meaningful insights through interactive visualizations.
 
-## 📌 Dashboard Features
+## 📌 Dashboard Features and all things
 
 - Total number of students
 - Average Math, Reading, and Writing scores
